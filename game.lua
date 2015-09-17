@@ -2,7 +2,7 @@ local game = {}
 game.play=function()--game里面的一个键play对应的是一个函数
 print("play")
 end
-
+--这里发生了修改，请注意
 game.stop=function()--game里面的一个键stop对应的也是一个函数
 print("stop")
 end
